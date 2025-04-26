@@ -62,12 +62,11 @@ The goal was to build a **Personalized Music Recommendation System** that predic
 1. Clone the repository:
    ```bash
    git clone https://github.com/EmanAli-07/RhombixTechnologies_Tasks.git
-```
 
 2. Install dependencies:
    ```bash
    pip install pandas numpy scikit-learn lightgbm seaborn matplotlib
-```
+
 
 3. Run the Jupyter Notebook `Spotify_Recommendation_System.ipynb`.
 
