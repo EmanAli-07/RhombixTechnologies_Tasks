@@ -77,7 +77,7 @@ The goal was to build a **Personalized Music Recommendation System** that predic
    ```
 🎥 Video Explanation
 
-A detailed walkthrough video explaining the project is available (Upload_linkedin).
+A detailed walkthrough video explaining the project is available [(Upload_linkedin)](https://www.linkedin.com/posts/eman-ali910_internship-machinelearning-spotifyrecommendation-activity-7322154949822296064-tFR2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIIdC4Bq-GUeZKICetOp4riQ1uDpUWb7bg).
 
 🔗 GitHub Repository Link
 
